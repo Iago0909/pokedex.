@@ -35,11 +35,11 @@ ja essas classes que serão estilizadas para ficar dentro dos parâmetros da ima
       <span class="pokemon__name"></span>
     </h1>
 
-    <h1 class="pokemon__infos">
+   <h1 class="pokemon__infos">
       <span class="pokemon__height"></span>
       <span class="pokemon__weight"></span>
-    </h1>
+   </h1>
 
-    Link para visualização completa no Site Vercel
+Link para visualização completa no Site Vercel
 
-    • 
+• https://vercel.com/iago0909s-projects/pokedex
